@@ -17,6 +17,10 @@ export const ReactQuery = () => {
     queryFn: getPosts,
   });
 
+
+
+  
+
   return (
     <>
       {isLoading ? (
